@@ -1,7 +1,7 @@
 {
-  "name": "sensitive-words",
+  "name": "words",
   "version": "1.0.0",
-  "description": "Get Random sensitive words",
+  "description": "Get Random words",
   "main": "src/index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
